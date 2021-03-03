@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\ref\CRUD series.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\bin\Debug\net5.0\CRUD series.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\ref\CRUD series.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\CRUD series\obj\Debug\net5.0\CRUD series.genruntimeconfig.cache
